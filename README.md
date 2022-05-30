@@ -1,0 +1,2 @@
+# Data-Standardized
+First we import libraries numpy(used for arrays) and pandas (used for dataframe) , also used sklearn library , import standardscaler for data standardization next we use 80% data for trainig and 20% for testing to make our range in same or common values like in 0, 1 form. Load the dataset (breast_cancer) by using sklearn library, then print dataset. In this dataset our target: array value is in 0 , 1 form and the above value from target values is data :array. Load dataset into pandas dataframe
